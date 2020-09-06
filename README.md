@@ -37,3 +37,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 16. | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 17. | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 18. | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull)  |
+| 19. | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
