@@ -39,3 +39,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 18. | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull)  |
 | 19. | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 20. | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 21. | [Beautiful Sets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
