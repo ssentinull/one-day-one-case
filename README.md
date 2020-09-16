@@ -42,3 +42,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 21. | [Beautiful Sets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 22. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 23. | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 24. | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
