@@ -43,3 +43,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 22. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 23. | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 24. | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 25. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
