@@ -45,3 +45,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 24. | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 25. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 26. | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 27. | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
