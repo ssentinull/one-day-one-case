@@ -48,3 +48,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 27. | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 28. | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 29. | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 30. | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
