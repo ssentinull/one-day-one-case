@@ -50,3 +50,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 29. | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 30. | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 31. | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 32. | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
