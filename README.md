@@ -51,3 +51,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 30. | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 31. | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 32. | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 33. | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
