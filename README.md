@@ -53,3 +53,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 32. | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 33. | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 34. | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 35. | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
