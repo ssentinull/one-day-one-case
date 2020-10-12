@@ -56,3 +56,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 35. | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 36. | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 37. | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 38. | [HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
