@@ -54,3 +54,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 33. | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 34. | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 35. | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 36. | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
