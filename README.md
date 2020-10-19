@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/maintained%20by-ssentinull-blue)
 ![](https://img.shields.io/badge/PRs-appreciated-brightgreen)
 
-This is a repository for solutions to competitive programming problems from multiple technical assessment platforms, such as Hackerrank and Codilitiy.
+This is a repository for solutions to competitive programming problems from multiple technical assessment platforms, such as [Hackerrank](https://www.hackerrank.com/), [Codeforces](http://codeforces.com/), and [Codility](https://www.codility.com/).
 
 Feel free to contribute towards this repo by submitting your solutions (written in any language) to a given problem through pull requests. Make sure that the name of the problem as well as the url for that website is listed clearly.
 
@@ -11,7 +11,7 @@ Hope this repo could benefit programmers who strive to become better problem sol
 
 ## How to Contribute
 
-- Create a new folder in the root directory, with the folder name being the name of the problem written in kebab-case.
+- Create a new folder in the root directory named after the platform where the problem originated from, with the new folder name being the name of the problem written in kebab-case.
 - Place the solution file for that problem inside the new folder and name the file `Solution.file_extension`.
 - Don't forget to add a new entry to the [README.md](https://github.com/ssentinull/one-day-one-case/blob/master/README.md) for the newly submitted contribution so that it would be easy to keep track of all the problems that've been solved.
 
