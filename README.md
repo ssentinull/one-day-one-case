@@ -58,3 +58,4 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 37. | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 38. | [HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 39. | [Theatre Square](https://codeforces.com/contest/1/problem/A) | Codeforces | C++ | [ssentinull](https://github.com/ssentinull) |
+| 40. | [Box is Pull](https://codeforces.com/contest/1428/problem/A) | Codeforces | C++ | [ssentinull](https://github.com/ssentinull) |
