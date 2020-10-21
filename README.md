@@ -22,22 +22,22 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 1. | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | Hackerrank  |Java | [ssentinull](https://github.com/ssentinull) |
 | 2. | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 3. |  [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | Codility | C++ | [ssentinull](https://github.com/ssentinull) |
-| 4. | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem?h_r=internal-search) | Hackerrank | Java | [faizinahsan](https://github.com/faizinahsan) |
+| 4. | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | Hackerrank | Java | [faizinahsan](https://github.com/faizinahsan) |
 | 5. | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
-| 6. | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?h_r=internal-search) | Hackerrank | Java | [faizinahsan](https://github.com/faizinahsan) |
-| 7. | [Encryption](https://www.hackerrank.com/challenges/encryption/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 6. | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | Hackerrank | Java | [faizinahsan](https://github.com/faizinahsan) |
+| 7. | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 8. | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 9. | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
-| 10. | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
-| 11. | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
-| 12. | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 10. | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 11. | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 12. | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 13. | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 14. | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
-| 15. | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
-| 16. | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 15. | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 16. | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 17. | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 18. | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull)  |
-| 19. | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=internal-search) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 19. | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 20. | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 21. | [Beautiful Sets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 22. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
@@ -59,3 +59,8 @@ Hope this repo could benefit programmers who strive to become better problem sol
 | 38. | [HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
 | 39. | [Theatre Square](https://codeforces.com/contest/1/problem/A) | Codeforces | C++ | [ssentinull](https://github.com/ssentinull) |
 | 40. | [Box is Pull](https://codeforces.com/contest/1428/problem/A) | Codeforces | C++ | [ssentinull](https://github.com/ssentinull) |
+| 41. | [Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 42. | [Find the Point](https://www.hackerrank.com/challenges/find-point/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 43. | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 44. | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
+| 45. | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem) | Hackerrank | Java | [ssentinull](https://github.com/ssentinull) |
